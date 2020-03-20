@@ -1,0 +1,9 @@
+http://web.iitd.ac.in/~dharmar/paper/damicoREF1-2019.pdf
+
+https://arxiv.org/pdf/1504.02955.pdf
+
+https://papers.tinbergen.nl/06024.pdf
+
+https://cran.r-project.org/web/packages/SMM/vignettes/smm.pdf
+
+https://cran.r-project.org/web/packages/nhm/vignettes/nhm-manual.pdf
